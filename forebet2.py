@@ -5,7 +5,7 @@ import os
 import itertools
 
 # Must be the first Streamlit command!
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="Laxra-Bet", layout="wide")
 
 # Inject custom CSS for a frosty effect
 st.markdown(
