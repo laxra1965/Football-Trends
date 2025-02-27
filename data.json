@@ -1,0 +1,126 @@
+[
+  {
+    "winning_trends": [
+      {
+        "team_1": "Slavia Praha",
+        "team_2": "Bohemians 1905",
+        "game_date": "2025-02-26",
+        "game_time": "7:30 AM",
+        "probability": 1.22,
+        "trend_description": "Slavia Praha have won 14 consecutive home games in Chance Liga"
+      },
+      {
+        "team_1": "Crvena Zvezda",
+        "team_2": "Zeleznicar Pancevo",
+        "game_date": "2025-02-26",
+        "game_time": "5:00 AM",
+        "probability": 1.27,
+        "trend_description": "Crvena Zvezda have won their last 14 away league games"
+      },
+      {
+        "team_1": "Shanghai SIPG",
+        "team_2": "Changchun YaTai",
+        "game_date": "2025-02-28",
+        "game_time": "1:35 AM",
+        "probability": 1.29,
+        "trend_description": "Shanghai SIPG are on a run of 12 consecutive home wins in their domestic league"
+      },
+      {
+        "team_1": "Peterborough",
+        "team_2": "Wrexham FC",
+        "game_date": "2025-02-26",
+        "game_time": "9:30 AM",
+        "probability": 1.67,
+        "trend_description": "Peterborough have won all of their last 11 matches in EFL Trophy"
+      },
+      {
+        "team_1": "Sassuolo",
+        "team_2": "AC Pisa",
+        "game_date": "2025-03-01",
+        "game_time": "6:15 AM",
+        "probability": 3.3,
+        "trend_description": "There have been 10 consecutive home Serie B wins in a row for Sassuolo"
+      },
+      {
+        "team_1": "Ajax",
+        "team_2": "Almere City",
+        "game_date": "2025-03-02",
+        "game_time": "3:30 AM",
+        "probability": 1.44,
+        "trend_description": "Ajax have won their last 8 games in Eredivisie"
+      },
+      {
+        "team_1": "Botev Plovdiv",
+        "team_2": "Ludogorets",
+        "game_date": "2025-02-27",
+        "game_time": "6:00 AM",
+        "probability": 1.42,
+        "trend_description": "Botev Plovdiv have won all of their last 8 matches in Bulgarian Cup"
+      },
+      {
+        "team_1": "Gharrafa SC",
+        "team_2": "Al Sadd SC",
+        "game_date": "2025-02-27",
+        "game_time": "3:45 AM",
+        "probability": 1.9,
+        "trend_description": "Gharrafa SC have won by 2+ goals all of their last 6 home Stars League games"
+      },
+      {
+        "team_1": "FK Buducnost",
+        "team_2": "Arsenal Tivat",
+        "game_date": "2025-02-26",
+        "game_time": "3:00 AM",
+        "probability": 1.5,
+        "trend_description": "A margin of 2+ goals was achieved by FK Buducnost in their last 5 Prva Crnogorska Liga games"
+      },
+      {
+        "team_1": "FC Fredericia",
+        "team_2": "Hvidovre IF",
+        "game_date": "2025-02-27",
+        "game_time": "8:00 AM",
+        "probability": 3,
+        "trend_description": "Their last 5 away games in the 1. Division have seen FC Fredericia win by 2 or more goals"
+      },
+      {
+        "team_1": "Levski Sofia",
+        "team_2": "CSKA-Sofia",
+        "game_date": "2025-03-02",
+        "game_time": "2:00 AM",
+        "probability": 2.7,
+        "trend_description": "Levski Sofia have succeeded in winning at both half time and full time in their 5 most recent Parva Liga clashes"
+      },
+      {
+        "team_1": "Liverpool",
+        "team_2": "Newcastle United",
+        "game_date": "2025-02-26",
+        "game_time": "10:15 AM",
+        "probability": 1.5,
+        "trend_description": "Liverpool have achieved a 5 home game half time/full time winning streak in all competitions"
+      },
+      {
+        "team_1": "Arsenal LFC W",
+        "team_2": "West Ham W",
+        "game_date": "2025-03-02",
+        "game_time": "7:30 AM",
+        "probability": 1.1,
+        "trend_description": "Arsenal LFC W have won by a margin of 3+ goals in 4 of their most recent home matches of Women’s Super League"
+      },
+      {
+        "team_1": "Juventus",
+        "team_2": "Empoli",
+        "game_date": "2025-02-26",
+        "game_time": "10:00 AM",
+        "probability": 1.29,
+        "trend_description": "Juventus have won by 2 or more goals their last 4 home league games"
+      },
+      {
+        "team_1": "Bangkok Glass",
+        "team_2": "Buriram United",
+        "game_date": "2025-02-26",
+        "game_time": "2:00 AM",
+        "probability": 6,
+        "trend_description": "In their 4 most recent away matches in League Cup, Bangkok Glass have won by 3+ goals"
+      }
+    ]
+  }
+]
